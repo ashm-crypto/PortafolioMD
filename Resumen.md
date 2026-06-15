@@ -1,5 +1,5 @@
 [Regresar](Unidad1.md)
-inidice
+<a id="indice"></a>
 # RESUMEN TEÓRICO
 
 - Proposiciones
