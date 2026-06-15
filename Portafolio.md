@@ -15,13 +15,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 <div align="center">
   
@@ -33,17 +26,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
 
 **Carrera:** Computación
 
@@ -57,14 +39,7 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ___
 
