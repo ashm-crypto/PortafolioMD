@@ -2,4 +2,8 @@
 
 # UNIDAD 2
 
-## Mapas de Karnaugh resueltos 
+## [APES individuales](APES.md)
+## [Mapas de Karnaugh Resueltos](Mapas.md)
+## [Diseño de funciones lógicas](Diseño.md)
+## [Talleres de simplificación booleana](Talleres.md)
+
