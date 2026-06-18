@@ -5,3 +5,6 @@
 [APE 1 U2 Individual - Matemáticas Discretas.pdf](https://github.com/user-attachments/files/28981792/APE.1.U2.Individual.-.Matematicas.Discretas.pdf)
 <br>
 [APE 2 U2 Individual -Matemáticas Discretas.....pdf](https://github.com/user-attachments/files/28981904/APE.2.U2.Individual.-Matematicas.Discretas.pdf)
+<br>
+[APE 3 U2 Individual - Matemáticas Discretas .pdf](https://github.com/user-attachments/files/29076858/APE.3.U2.Individual.-.Matematicas.Discretas.pdf)
+
