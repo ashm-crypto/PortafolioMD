@@ -3,7 +3,8 @@
 # UNIDAD 2
 
 ## [APES individuales](APE.md)
-## [Mapas de Karnaugh Resueltos](Mapas.md)
-## [Diseño de funciones lógicas](Diseño.md)
-## [Talleres de simplificación booleana](Talleres.md)
+## [ACD: Talleres de simplificación booleana](Talleres.md)
+## [Ejercicios de Mapas de Karnaugh Resueltos](Mapas.md)
+## [Ejercicios en clase: Diseño de funciones lógicas](Diseño.md)
+
 
