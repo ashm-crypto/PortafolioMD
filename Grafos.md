@@ -1,8 +1,14 @@
 [Regresar](Unidad3.md)
+<a id="indice"></a>
+# GRÁFOS
 
-#GRÁFOS
-
-- 
+- [Origen y Definición de los Grafos](#Origen_y_Definición_de_los_Grafos)
+- [Propiedades y Clasificación](#Propiedades_y_Clasificación)
+- [Diferencias en los Recorridos: Euler vs. Hamilton](#Diferencias_en_los_Recorridos_Euler_vs._Hamilton)
+- [Algoritmos de Optimización](#Algoritmos_de_Optimización)
+- [Representación Digital (Matrices)](#Representación_Digital_(Matrices))
+- [Isomorfismo, Planaridad y Coloreado](#Isomorfismo,_Planaridad_y_Coloreado)
+- [Emparejamiento y Cobertura](#Emparejamiento_y_Cobertura)
 
 ## Origen y Definición de los Grafos
 La teoría de grafos se originó formalmente en 1736 con Leonhard Euler y el problema de los siete puentes de Königsberg. Un grafo se define como una estructura matemática compuesta por un conjunto de puntos (vértices) unidos por líneas (aristas), lo que permite modelar relaciones binarias entre objetos de forma abstracta. En computación, es una pieza fundamental para el desarrollo de inteligencia artificial, sistemas operativos y redes como el internet.
