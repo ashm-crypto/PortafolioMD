@@ -44,4 +44,4 @@ Para que las computadoras procesen grafos, se utilizan representaciones numéric
 ## Emparejamiento y Cobertura
 En grafos bipartitos, existe una relación estrecha entre el emparejamiento máximo (conjunto de aristas independientes) y la cobertura de vértices mínima (nodos que tocan todas las aristas). En estos casos específicos, el tamaño de ambos suele coincidir, lo cual es vital para problemas de asignación de recursos.
 
-[Volver al inicio](indice)
+[Volver al inicio](#indice)
