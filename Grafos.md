@@ -10,7 +10,7 @@
 - [Isomorfismo, Planaridad y Coloreado](#isomorfismo-planaridad-y-coloreado)
 - [Emparejamiento y Cobertura](#emparejamiento-y-cobertura)
 
-## Origen y definición de los grafos
+## Origen y Definición de los Grafos
 La teoría de grafos se originó formalmente en 1736 con Leonhard Euler y el problema de los siete puentes de Königsberg. Un grafo se define como una estructura matemática compuesta por un conjunto de puntos (vértices) unidos por líneas (aristas), lo que permite modelar relaciones binarias entre objetos de forma abstracta. En computación, es una pieza fundamental para el desarrollo de inteligencia artificial, sistemas operativos y redes como el internet.
 
 ## Propiedades y Clasificación
