@@ -6,9 +6,11 @@
 ### Diapositivas
 [📄 Abrir documento](ACD1U3.pdf)
 ### Video
+[📄 Abrir documento](ACD1U3Video.pdf)
 
 ## ACD 2 - Árboles
 ### Diapositivas
 [📄 Abrir documento](ACD2U3.pdf)
 
 ### Video
+[📄 Abrir documento](ACD2U3Video.pdf)
