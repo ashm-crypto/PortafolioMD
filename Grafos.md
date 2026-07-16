@@ -4,7 +4,7 @@
 
 - [Origen y Definición de los Grafos](#Origen_y_Definición_de_los_Grafos)
 - [Propiedades y Clasificación](#Propiedades_y_Clasificación)
-- [Diferencias en los Recorridos: Euler vs. Hamilton](#Diferencias_en_los_Recorridos_Euler_vs._Hamilton)
+- [Diferencias en los Recorridos: Euler vs. Hamilton](#Diferencias_en_los_Recorridos_Euler_vs_Hamilton)
 - [Algoritmos de Optimización](#Algoritmos_de_Optimización)
 - [Representación Digital (Matrices)](#Representación_Digital_(Matrices))
 - [Isomorfismo, Planaridad y Coloreado](#Isomorfismo,_Planaridad_y_Coloreado)
