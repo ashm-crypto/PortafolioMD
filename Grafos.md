@@ -6,11 +6,11 @@
 - [Propiedades y Clasificación](#propiedades-y-clasificacion)
 - [Diferencias en los Recorridos: Euler vs. Hamilton](#diferencias-en-los-recorridos-euler-vs-hamilton)
 - [Algoritmos de Optimización](#algoritmos-de-optimizacion)
-- [Representación Digital (Matrices)](#representacion-digital-matrices)
+- [Representación Digital Matrices](#representacion-digital-matrices)
 - [Isomorfismo, Planaridad y Coloreado](#isomorfismo-planaridad-y-coloreado)
 - [Emparejamiento y Cobertura](#emparejamiento-y-cobertura)
 
-## Origen y Definición de los Grafos
+## Origen y definición de los grafos
 La teoría de grafos se originó formalmente en 1736 con Leonhard Euler y el problema de los siete puentes de Königsberg. Un grafo se define como una estructura matemática compuesta por un conjunto de puntos (vértices) unidos por líneas (aristas), lo que permite modelar relaciones binarias entre objetos de forma abstracta. En computación, es una pieza fundamental para el desarrollo de inteligencia artificial, sistemas operativos y redes como el internet.
 
 ## Propiedades y Clasificación
@@ -31,7 +31,7 @@ La teoría se aplica a la resolución de problemas reales mediante algoritmos l�
 ### Algoritmo de Dijkstra: Motor de los sistemas GPS, diseñado para encontrar la ruta más corta desde un origen hacia otros nodos en grafos con pesos positivos.
 <img width="416" height="269" alt="image" src="https://github.com/user-attachments/assets/17720d83-e519-4605-bcec-f55eaa12074e" />
 
-## Representación Digital (Matrices)
+## Representación Digital Matrices
 Para que las computadoras procesen grafos, se utilizan representaciones numéricas.
 - Matriz de Adyacencia (n×n): Utiliza ceros y unos para indicar conexiones. Elevar esta matriz a la potencia k permite calcular el número de caminos de longitud k.
 - Matriz de Incidencia (n×m): Vincula nodos con aristas. Es ideal para modelar multígrafos con lazos o aristas paralelas que la matriz de adyacencia no puede representar con precisión.
